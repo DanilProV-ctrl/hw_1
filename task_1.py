@@ -7,7 +7,7 @@ from pyrob.api import *
 def task_1_1():
     move_right(n=2)
     move_down(n=1)
-    pass
+
 
 
 if __name__ == '__main__':
